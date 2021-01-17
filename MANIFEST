@@ -1,4 +1,8 @@
+Changes
 Disk.pm
 Makefile.PL
 MANIFEST
+README
 t/01-basic.t
+t/02-format-disk.t
+t/03-read-dir.t

@@ -3,7 +3,7 @@ D64-Disk
 
 [![CPAN version](https://badge.fury.io/pl/D64-Disk.png)](https://metacpan.org/pod/D64::Disk)
 
-`D64::Disk` provides a high-level interface to manipulate Commodore (D64/D71/D81) disk images implemented in pure Perl.
+`D64::Disk` provides high-level interface to manipulate Commodore (D64/D71/D81) disk images implemented in pure Perl.
 
 VERSION
 -------
