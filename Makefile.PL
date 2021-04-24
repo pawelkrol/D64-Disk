@@ -9,6 +9,7 @@ WriteMakefile(
                             D64::Disk::Layout::Sector => 0.02,
                             D64::Disk::Status         => 0.03,
                             File::Temp                => 0,
+                            Test::Deep                => 0,
                             Test::More                => 0,
                         },
     ($] >= 5.005 ?
